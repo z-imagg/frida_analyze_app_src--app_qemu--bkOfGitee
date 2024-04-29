@@ -3,6 +3,12 @@
 1. frida_js+analyze_by_graph 分析出 qemu启动linux5的vmlinux 图
      qemu5正常运行启用PVH的linux-5.11编译产物vmlinux
      若不启用PVH,则qemu5不能运行该vmlinux
+     【2024年4月29日已完成】 
+         linux的docker编译环境: 启用PVH的、带调试符号的linux-5.11编译产物vmlinux
+         qemu的docker编译环境
+      【2024年4月30日任务】 
+          【术语】prj_env == frida_js+analyze_by_graph 的docker环境
+           让prj_env对qemu+vmlinux正常运行，以产生 qemu的函数调用日志
     
     
 2. 【人工】以图逐步读懂qemu源码中 概念、主流程 即 基本理解qemu源码 
