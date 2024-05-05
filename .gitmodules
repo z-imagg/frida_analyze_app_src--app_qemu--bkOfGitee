@@ -7,9 +7,3 @@
 [submodule "analyze_by_graph"]
 	path = analyze_by_graph
 	url = http://giteaz:3000/frida_analyze_app_src/analyze_by_graph.git
-[submodule "prj_env"]
-	path = prj_env
-	url = http://giteaz:3000/frida_analyze_app_src/prj_env.git
-[submodule "app_bld"]
-	path = app_bld
-	url = http://giteaz:3000/frida_analyze_app_src/app_bld.git
