@@ -1,6 +1,3 @@
-[submodule "anlz/frida_js"]
-	path = anlz/frida_js
-	url = http://giteaz:3000/frida_analyze_app_src/frida_js.git
 [submodule "app_env__qemu-v8.2.2"]
 	path = app_env__qemu-v8.2.2
 	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
