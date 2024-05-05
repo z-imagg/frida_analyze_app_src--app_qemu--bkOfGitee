@@ -10,3 +10,6 @@
 [submodule "app_env__linux-v5.11"]
 	path = app_env__linux-v5.11
 	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
+[submodule "app_env__anlz_ap"]
+	path = app_env__anlz_ap
+	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
