@@ -7,6 +7,3 @@
 [submodule "app_env"]
 	path = app_env
 	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
-[submodule "app/qemu"]
-	path = app/qemu
-	url = https://gitee.com/imagg/qemu--qemu.git
