@@ -7,3 +7,18 @@
 [submodule "app_env__anlz_ap"]
 	path = app_env__anlz_ap
 	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
+[submodule "required/analyze_by_graph"]
+	path = required/analyze_by_graph
+	url = http://giteaz:3000/frida_analyze_app_src/analyze_by_graph.git
+[submodule "required/frida_js"]
+	path = required/frida_js
+	url = http://giteaz:3000/frida_analyze_app_src/frida_js.git
+[submodule "required/app_env"]
+	path = required/app_env
+	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
+[submodule "required/bash-simplify"]
+	path = required/bash-simplify
+	url = http://giteaz:3000/bal/bash-simplify.git
+[submodule "required/cmd-wrap"]
+	path = required/cmd-wrap
+	url = http://giteaz:3000/bal/cmd-wrap.git
