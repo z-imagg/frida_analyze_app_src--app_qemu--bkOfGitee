@@ -7,3 +7,6 @@
 [submodule "app_env__qemu-v8.2.2"]
 	path = app_env__qemu-v8.2.2
 	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
+[submodule "app_env__linux-v5.11"]
+	path = app_env__linux-v5.11
+	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
