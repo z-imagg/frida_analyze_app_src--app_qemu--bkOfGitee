@@ -4,6 +4,3 @@
 [submodule "anlz/analyze_by_graph"]
 	path = anlz/analyze_by_graph
 	url = http://giteaz:3000/frida_analyze_app_src/analyze_by_graph.git
-[submodule "app_env"]
-	path = app_env
-	url = http://giteaz:3000/frida_analyze_app_src/app_env.git
